@@ -1,6 +1,6 @@
 # Hi 👋, I'm **MANISH TIWARI**
 
-<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e21cc028cb2d.gif" alt="Coding Boy" />
+<img align="right" width="370" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca4-a9f2-bc8e305220d7.gif" alt="Coding Boy" />
 
 **Software Engineer | AI & Generative AI Specialist | Cloud Backend Engineer**
 

@@ -85,50 +85,24 @@
 - 📊 Analyzed operational data to identify actionable insights for strategic business decisions
 - 🎯 Conducted industry benchmarking and implemented data-driven solutions presented to senior management stakeholders
 
-### **Air India SATS** | Intern *(Apr 2024 – Nov 2024)* | Noida, India
-- Analyzed operational data to identify actionable business insights
-- Conducted industry benchmarking and implemented data-driven solutions for senior management stakeholders
-
 ---
 
 ## 🎓 Education
 
 **Bachelor of Technology in Computer Science**  
-KIET Group of Institutions (A.K.T.U.) | *2020 – 2024*  
-SGPA: 7.62/10 | Ghaziabad, Uttar Pradesh, India
+KIET Group of Institutions (A.K.T.U.) | Ghaziabad, Uttar Pradesh, India  
+*2020 – 2024* | **SGPA: 7.62/10**
 
 ---
 
-## 📂 Notable Projects
+## 📂 Featured Projects
 
-| Project | Description | Tech Stack |
-|---------|-------------|-----------|
-| **[YouTube Transcript Summarizer](https://github.com/its-manish27/youtube-transcript-summarizer)** | Python web app that processes YouTube transcripts and generates concise summaries | Python, NLTK, Flask, NLP, HTML/CSS |
-| **[Utkarsh Rozgar](https://github.com/its-manish27/Utkarsh_rozgar_website)** | Platform connecting employers with wage workers & street vendors through job discovery, location search & ratings | HTML, CSS, JavaScript, MongoDB |
-| **[EcoCode-Analyzer](https://github.com/its-manish27/EcoCode-Analyzer)** | Tool for analyzing and improving code sustainability | Python |
-| **[Pattern-Searching](https://github.com/its-manish27/Pattern-Searching)** | Algorithm implementations for pattern matching problems | Java/Python |
-
----
-
-## 🛠️ Technical Skills
-
-**Programming Languages:**  
-Java, Python, C, HTML, CSS, SQL, ESQL
-
-**Generative AI & LLMs:**  
-Agentic AI, LangGraph, RAG, LLMs, Azure OpenAI, LangChain, Model Context Protocol (MCP), Prompt Engineering, A2A (Agent to Agent) Protocol
-
-**Core CS Fundamentals:**  
-Data Structures & Algorithms (DSA), Operating Systems, Computer Networks, OOPs, DBMS, System Design, Microservices Architecture, RESTful APIs
-
-**Frameworks & Libraries:**  
-Spring Boot, FastAPI, Django, Flask, Streamlit, Apache Spark, React, Angular, Pandas
-
-**Databases & Cloud:**  
-MongoDB, Redis, Oracle, ELK Stack, Weaviate, Snowflake
-
-**Tools & DevOps:**  
-GitHub, Postman, Docker, Kafka, CI/CD Pipelines, Power BI, Jira, VSCode, Eclipse, Cursor
+| 🎯 Project | 📝 Description | 🛠️ Tech Stack |
+|-----------|----------------|--------------|
+| **[YouTube Transcript Summarizer](https://github.com/its-manish27/youtube-transcript-summarizer)** | AI-powered tool to extract and summarize YouTube video transcripts | Python, NLTK, Flask, NLP |
+| **[Utkarsh Rozgar](https://github.com/its-manish27/Utkarsh_rozgar_website)** | Job platform connecting employers with wage workers & vendors | HTML, CSS, JS, MongoDB |
+| **[EcoCode-Analyzer](https://github.com/its-manish27/EcoCode-Analyzer)** | Analyze and improve code sustainability metrics | Python |
+| **[Pattern-Searching](https://github.com/its-manish27/Pattern-Searching)** | Advanced algorithm implementations for pattern matching | Java, Python |
 
 ---
 
@@ -149,7 +123,7 @@ GitHub, Postman, Docker, Kafka, CI/CD Pipelines, Power BI, Jira, VSCode, Eclipse
 
 ---
 
-## � GitHub Statistics
+## 📊 GitHub Statistics
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=its-manish27&show_icons=true&theme=tokyonight&hide_border=true" alt="Manish's GitHub Stats" />
 
@@ -157,27 +131,4 @@ GitHub, Postman, Docker, Kafka, CI/CD Pipelines, Power BI, Jira, VSCode, Eclipse
 
 ---
 
-## 📚 Featured Projects
-
-| 🎯 Project | 📝 Description | 🛠️ Tech Stack |
-|-----------|----------------|--------------|
-| **[YouTube Transcript Summarizer](https://github.com/its-manish27/youtube-transcript-summarizer)** | AI-powered tool to extract and summarize YouTube video transcripts | Python, NLTK, Flask, NLP |
-| **[Utkarsh Rozgar](https://github.com/its-manish27/Utkarsh_rozgar_website)** | Job platform connecting employers with wage workers & vendors | HTML, CSS, JS, MongoDB |
-| **[EcoCode-Analyzer](https://github.com/its-manish27/EcoCode-Analyzer)** | Analyze and improve code sustainability metrics | Python |
-| **[Pattern-Searching](https://github.com/its-manish27/Pattern-Searching)** | Advanced algorithm implementations for pattern matching | Java, Python |
-
----
-
-## 🎓 Education
-
-**Bachelor of Technology in Computer Science**  
-KIET Group of Institutions (A.K.T.U.) | Ghaziabad, Uttar Pradesh, India  
-*2020 – 2024* | **SGPA: 7.62/10**
-
----
-
-## 📊 GitHub Stats
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=its-manish27&theme=tokyonight&hide_border=true)
-
----

@@ -2,7 +2,7 @@
 
 <img align="right" width="300" src="https://media.giphy.com/media/SvckSy7fFvDRKYDmHJ/giphy.gif" alt="Programmer GIF" />
 
-**Full Stack Software Engineer | AI & Generative AI Specialist | Cloud Backend Engineer**
+**Software Engineer | AI & Generative AI Specialist | Cloud Backend Engineer**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=its-manish27&style=flat-square&color=blue)
 

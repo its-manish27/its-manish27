@@ -1,5 +1,7 @@
 # Hi 👋, I'm **MANISH TIWARI**
 
+<img src="https://media.tenor.com/rMSBeKw08HkAAAAM/new-game-ahhagon-umiko-programming.gif" width="300" alt="Programmer" />
+
 **Full Stack Software Engineer | AI & Generative AI Specialist | Cloud Backend Engineer**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=its-manish27&style=flat-square&color=blue)

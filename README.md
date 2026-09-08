@@ -125,10 +125,8 @@ KIET Group of Institutions (A.K.T.U.) | Ghaziabad, Uttar Pradesh, India
 
 ## 📊 GitHub Statistics
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=its-manish27&show_icons=true&theme=tokyonight&hide_border=true" alt="Manish's GitHub Stats" />
+![Manish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=its-manish27&show_icons=true&theme=tokyonight&hide_border=true)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-manish27&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-
----
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=its-manish27&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=its-manish27&theme=tokyonight&hide_border=true)

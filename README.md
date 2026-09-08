@@ -6,7 +6,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=its-manish27&style=flat-square&color=blue)
 
-- 🚀 Currently working as a **Full Stack Software Engineer at Cisco** (Bengaluru, India) and previously an **Intern at Air India SATS**
+- 🚀 Currently working as a **Software Engineer at Cisco** (Bengaluru, India) and previously an **Intern at Air India SATS**
 - 🤖 Proficient in **Generative AI**, **LangGraph**, **RAG Frameworks**, **LLMs**, **Azure OpenAI**, and **Agentic AI Architecture**
 - 🏗️ Deeply focused on **Java/Spring Boot**, **Python/FastAPI**, **Distributed Systems**, **Microservices Architecture**, and **ELK Stack**
 - 🏆 **Key Achievements:**

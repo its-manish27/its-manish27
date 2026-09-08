@@ -1,21 +1,20 @@
 # Hi 👋, I'm **MANISH TIWARI**
 
-**Full Stack Software Engineer** | AI & Generative AI Specialist | Cloud Backend Engineer
+**Full Stack Software Engineer | AI & Generative AI Specialist | Cloud Backend Engineer**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=its-manish27&style=flat-square&color=blue)
 
----
-
-## 🚀 About Me
-
-Full Stack Software Engineer at **Cisco** with expertise in building scalable web applications, REST APIs, AI-agent workflows, backend services, and user-facing interactions. 
-
-- 🔧 Currently working on **Unified Data Layer (UDL)** and **AI-powered TrueUp Agent** at Cisco
-- 🤖 Specialized in **Generative AI**, **LangGraph**, **RAG**, and **Agent-based systems**
-- 🏗️ Proficient in **Java/Spring Boot**, **Python/FastAPI**, **Distributed Systems**, and **ELK Stack**
-- 📊 Experience with **Data Pipelines**, **Index Modelling**, and **ETL workflows**
-- 📧 Ask me about **Microservices**, **RAG Frameworks**, **LangGraph Orchestration**, and **Agent Protocols (A2A)**
-- 📍 **How to reach me:** [manishtiwari14777@gmail.com](mailto:manishtiwari14777@gmail.com)
+- 🚀 Currently working as a **Full Stack Software Engineer at Cisco** (Bengaluru, India) and previously an **Intern at Air India SATS**
+- 🤖 Proficient in **Generative AI**, **LangGraph**, **RAG Frameworks**, **LLMs**, **Azure OpenAI**, and **Agentic AI Architecture**
+- 🏗️ Deeply focused on **Java/Spring Boot**, **Python/FastAPI**, **Distributed Systems**, **Microservices Architecture**, and **ELK Stack**
+- 🏆 **Key Achievements:**
+  - Delivered **60% time savings** in IB Assessment & Asset Discovery using AI-powered TrueUp Agent
+  - Achieved **80% productivity gain** in TrueUp calculations and renewal cycles through AI automation
+  - Built unified data layer APIs handling 360-degree customer view with ELK Stack optimization
+  - Successfully integrated AI workflows with enterprise data pipelines using Apache Spark & Weaviate
+- 🧠 **Ask me about:** Microservices Architecture, RAG Frameworks, LangGraph Orchestration, Agent-to-Agent (A2A) Protocols, Data Pipeline Optimization, ELK Stack, Spring Boot Microservices, and FastAPI Backend Design
+- 📧 **How to reach me:** [manishtiwari14777@gmail.com](mailto:manishtiwari14777@gmail.com)
+- ⚡ **Fun fact:** Love solving complex algorithmic problems and building AI-powered solutions that drive real business impact!
 
 ---
 
@@ -73,11 +72,17 @@ Full Stack Software Engineer at **Cisco** with expertise in building scalable we
 
 ---
 
+## 💼 Experience
+
 ### **Cisco** | Software Engineer *(Nov 2024 – Present)* | Bengaluru, India
-- **Unified Data Layer (UDL) & License Simplification:** Developed REST APIs consumed by CLC user interface using Java Spring Boot & Python FastAPI. Optimized API performance and enhanced data models using ELK Stack, enabling 360-degree customer view and centralized governance.
-- **ACM TrueUp AI Agent:** Developing AI-powered conversational assistant for enterprise operations using Python, FastAPI, Streamlit, LangChain, LangGraph, Azure OpenAI, and RAG. Delivered **60% time savings** in IB Assessment and **80% productivity gain** in TrueUp calculations.
-- **Data Integrity Services:** Built data-integrity services using Python, Apache Spark, and Django, integrated with UDL workflows.
+- 🌐 **Unified Data Layer (UDL) & License Simplification:** Developed REST APIs using Java Spring Boot & Python FastAPI for CLC user interface, optimized API performance by enhancing data models and ELK Stack configurations, enabling 360-degree customer view and centralized governance
+- 🤖 **ACM TrueUp AI Agent:** Building AI-powered conversational assistant using Python, FastAPI, Streamlit, LangChain, LangGraph, Azure OpenAI, and RAG - achieved 60% time savings in IB Assessment and 80% productivity gain in TrueUp calculations
+- 🔧 **Data Integrity Services:** Developed data-integrity services using Python, Apache Spark, and Django, integrated with UDL workflows to improve scalability and data-flow reliability
 - **Tech Stack:** Java, Spring Boot, Python, Apache Spark, Django, FastAPI, Streamlit, LangChain, LangGraph, Azure OpenAI, RAG, Elasticsearch, Weaviate, Redis, ELK Stack, Kafka, Docker
+
+### **Air India SATS** | Intern *(Apr 2024 – Nov 2024)* | Noida, India
+- 📊 Analyzed operational data to identify actionable insights for strategic business decisions
+- 🎯 Conducted industry benchmarking and implemented data-driven solutions presented to senior management stakeholders
 
 ### **Air India SATS** | Intern *(Apr 2024 – Nov 2024)* | Noida, India
 - Analyzed operational data to identify actionable business insights

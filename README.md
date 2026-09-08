@@ -1,6 +1,6 @@
 # Hi 👋, I'm **MANISH TIWARI**
 
-<img align="right" alt="Young Programmer" width="400" src="https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=400&h=400&fit=crop">
+<img align="right" alt="Manish Tiwari" width="380" src="profile-pic.jpg" style="border-radius: 20px;">
 
 **Software Engineer | AI & Generative AI Specialist | Cloud Backend Engineer**
 

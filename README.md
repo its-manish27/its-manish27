@@ -2,7 +2,7 @@
 
 <img align="right" alt="Manish Tiwari" width="380" src="profile-pic.jpg" style="border-radius: 20px;">
 
-**Software Engineer | Web Applications | REST APIs | AI-Agent Workflows | Backend Services**
+**Software Engineer -> Web Applications | REST APIs | AI-Agent Workflows | Backend Services**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=its-manish27&style=flat-square&color=blue)
 

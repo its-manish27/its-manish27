@@ -1,6 +1,6 @@
 # Hi 👋, I'm **MANISH TIWARI**
 
-<img align="right" width="300" src="https://media.tenor.com/By87ucYMs9MAAAAM/coding-programing.gif" alt="Programmer GIF" />
+<img align="right" width="300" src="https://media.giphy.com/media/SvckSy7fFvDRKYDmHJ/giphy.gif" alt="Programmer GIF" />
 
 **Full Stack Software Engineer | AI & Generative AI Specialist | Cloud Backend Engineer**
 

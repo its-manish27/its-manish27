@@ -1,6 +1,6 @@
 # Hi 👋, I'm **MANISH TIWARI**
 
-<img src="https://media.tenor.com/rMSBeKw08HkAAAAM/new-game-ahhagon-umiko-programming.gif" width="300" alt="Programmer" />
+<img align="right" width="300" src="https://media.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif" alt="Programmer GIF" />
 
 **Full Stack Software Engineer | AI & Generative AI Specialist | Cloud Backend Engineer**
 

@@ -23,7 +23,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/itsmanish27)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/its-manish27)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:manishtiwari14777@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-+91%207007352513-green?style=flat-square&logo=whatsapp)](tel:+917007352513)
 
 ---
 
